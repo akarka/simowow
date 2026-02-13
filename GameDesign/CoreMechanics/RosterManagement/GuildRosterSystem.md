@@ -4,7 +4,7 @@ Bu doküman, oyuncunun guild kadrosunu nasıl yöneteceğini, raid seçim süre�
 
 ## 1. Kadro Havuzu ve Raid Seçimi
 
-Oyuncu, 40 kişilik bir raid için yaklaşık 45-50 kişilik bir karakter havuzundan seçim yapmak zorundadır. Bu seçim süreci, sadece en güçlü karakterleri seçmekten öte, oyuncunun optimizasyon ve diplomasi becerilerini test eden kritik bir mekaniktir.
+Oyuncu, 20 kişilik bir raid için yaklaşık 25-30 kişilik bir karakter havuzundan seçim yapmak zorundadır. Bu seçim süreci, sadece en güçlü karakterleri seçmekten öte, oyuncunun optimizasyon ve diplomasi becerilerini test eden kritik bir mekaniktir.
 
 *   **Optimizasyon İkilemi:** Oyuncu, "en yüksek hasarı veren" karakter yerine "en güvenilir" veya "en az sorun çıkaran" karakteri seçmek zorunda kalabilir.
 *   **Seçim Kriterleri:**
@@ -24,9 +24,9 @@ Yeni guild üyeleri, guildin genel yapısını ve performansını etkileyen öne
 
 ## 3. Kadro Yönetimi ve UI Optimizasyonu (Kapsam Daraltma Önerileri)
 
-Mobil platformun kısıtlamaları göz önüne alınarak, 40 kişilik bir kadroyu tek tek yönetmek yerine daha optimize edilmiş yaklaşımlar benimsenecektir.
+Mobil platformun kısıtlamaları göz önüne alınarak, 20 kişilik bir kadroyu tek tek yönetmek yerine daha optimize edilmiş yaklaşımlar benimsenecektir.
 
-*   **Raid Boyutunun Optimize Edilmesi:** Raid boyutunun 40 kişiden **20 veya 25 kişiye** düşürülmesi. Bu, UI tasarımını rahatlatacak ve oyuncunun bilişsel yükünü azaltacaktır.
+*   **Raid Boyutunun Optimize Edilmesi:** Raid boyutunun 20 kişiye düşürülmesi. Bu, UI tasarımını rahatlatacak ve oyuncunun bilişsel yükünü azaltacaktır.
 *   **Hiyerarşik Yönetim (Squad System):** Oyuncu, 40 kişiyi tek tek yönetmek yerine, belirli sayıda "Sınıf Lideri" (örneğin 8 Sınıf Lideri) üzerinden yönetim sağlayacaktır.
     *   **İşleyiş:** Oyuncu "Mage Lideri"ne "Alan Hasarı (AoE) yapın" emri verir. Lider, kendi grubundaki Mage'leri (5 Mage gibi) yönetir. Bu, mikro yönetimi azaltırken stratejik derinliği korur.
 *   **Akıllı Filtreleme ve Bağlamsal UI:** Ekranda tüm can barları/durumlar yerine, sadece "Tehlikede Olanlar" veya "Özel Görevli Oyuncular" gibi kritik bilgiler gösterilecektir. Futbol Manager Mobile arayüzüne benzer şekilde, oyuncu detaylara girmek istediğinde "drill-down" yapabilmelidir.
